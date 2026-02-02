@@ -3,8 +3,6 @@
 Welcome to my GitHub profile!  
 I’m passionate about **Front-end & Back-end development**, always learning and building new things.
 
-✨ *May the Force be with you.*
-
 ---
 
 ## 🚀 About Me
@@ -22,9 +20,10 @@ I’m passionate about **Front-end & Back-end development**, always learning and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
 </p>
-
 ---
 
 ## 🌟 What you’ll find here
@@ -34,4 +33,4 @@ I’m passionate about **Front-end & Back-end development**, always learning and
 
 ---
 
-⭐ *Learning today. Building tomorrow.*
+⭐ *May the Force be with you.*

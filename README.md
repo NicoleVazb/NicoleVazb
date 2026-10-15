@@ -13,7 +13,7 @@ I’m passionate about **Front-end & Back-end development**, always learning and
 
 ---
 
-## ✨ Languages & Technologies
+## ✨ Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
@@ -25,12 +25,3 @@ I’m passionate about **Front-end & Back-end development**, always learning and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
 </p>
 ---
-
-## 🌟 What you’ll find here
-- 📁 Study projects  
-- 🧪 Practice repositories  
-- 🚧 Experiments and learning paths  
-
----
-
-⭐ *May the Force be with you.*
